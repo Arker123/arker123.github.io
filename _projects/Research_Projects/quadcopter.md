@@ -1,7 +1,7 @@
 ---
 order: -20
-title: One Touch Doctor
-subtitle: Towards Non Invasive Haeomoglobin Measurement
+title: Quadcopter with Vision
+subtitle: A quadcopter with a vision system to detect and track objects.
 contributors: Arnav Kharbanda
 date: 2022-04-01
 image: ../images/hb.jpg
@@ -15,4 +15,6 @@ carousels:
       desc: Finished prototype.
     
 ---
-Developed a custom photoplethysmography sensor using multi-wavelength spectroscopy to measure Haemoglobin levels in a non-invasive manner.
+
+## Introduction
+Designed and developed a quadcopter with a vision system to detect and track objects. The quadcopter is capable of detecting and tracking objects using a camera mounted on the quadcopter. The quadcopter was designed to be used for surveillance and monitoring purposes.

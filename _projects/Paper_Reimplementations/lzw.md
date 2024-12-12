@@ -3,7 +3,11 @@ title: Lempel-Ziv-Welch (LZW)
 subtitle: Encoder and Decoder
 contributors: Arnav Kharbanda 
 date: 2022-01-01
-image: ../images/nlm.png
+image: ../images/LZW.jpg
+carousels: 
+  - images: 
+    - image: ../images/LZW.jpg
+      desc: LZW Encoder and Decoder
 order: -30
 ---
 

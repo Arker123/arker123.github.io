@@ -30,6 +30,12 @@ carousels:
 
 My journey with the Rubik's cube started way back in class 5 when I was fascinated with the puzzle. Slowly I started getting better at solving it, when in class 10, I was able to solve in just around 13 seconds! I slowly adapted myself to solving a variety of different twisty puzzles, and can today solve more than 15 kinds of twisties! -->
 
+## InterIIT Tech Meet 2024
+
+![](../images/inter_iit.jpeg)
+
+- Part of InterIIT Tech contingent, IIT Ropar.  
+
 ## Sports - Soccer
 
 <!-- {% include carousel.html height="50" unit="%" duration="7" number="2" %} -->
