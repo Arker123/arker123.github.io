@@ -4,7 +4,7 @@ title: Image Morphing
 subtitle: Delauney Triangulation | dlib
 contributors: Arnav Kharbanda
 date: 2022-01-01
-image: ../images/rl.gif
+image: ../images/morphing.jpg
 carousels: 
   - images: 
     - image: ../images/morphing.gif

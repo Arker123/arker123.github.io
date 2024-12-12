@@ -8,6 +8,7 @@ order: -30
 ---
 
 Report Link:- To be updated soon
+
 Code Link:- To be updated soon
 
 ### Position and Altitude Control of Quadrotor with Single Motor Failure
@@ -25,7 +26,7 @@ Using the **IRIS quadrotor model** in **Gazebo simulator**, a **PX4 flight contr
 - Transition to **Fault-Tolerant Control (FTC)**, using **control allocation** to adjust motor contributions and maintain stability.
 
 #### Results
-- **Fault Detection**: The system detected motor failures in **675 ms** and maintained control in various conditions.
+- **Fault Detection**: The system detected motor failures in **417 ms** and maintained control in various conditions.
 - **Fault-Tolerant Control**: Successfully kept the quadrotor stable during a motor failure and guided it to a safe landing without crashes.
 
 #### Conclusion
