@@ -1,9 +1,14 @@
 ---
 title: RISC-V Simulator
-subtitle: Simple tool.
+subtitle: A simulator for running RISC-V machine code.
 contributors:  Arnav Kharbanda*, Yashasav Prajapati*, Gopal Bansal*
 date: 2022-01-01
-image: ../images/nnviz.gif
+image: ../images/RISCV.jpg
+carousels: 
+  - images: 
+    - image: ../images/RISCV.jpg
+      desc: RISC-V Simulator
+
 order: -50
 ---
 Github: [Github](https://github.com/Arker123/RISC-V-Simulator)

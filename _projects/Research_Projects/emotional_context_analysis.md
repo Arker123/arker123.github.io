@@ -15,10 +15,10 @@ carousels:
 
 ---
 
-Video :- [link](https://drive.google.com/file/d/1qBABvgplgM0TRGiCfWMQhVyJ4Ckm3nN6/view?usp=sharing)
+<iframe width="420" height="315" src="https://www.youtube.com/embed/h3OOor99eIQ?si=lyhp7TyMWh-bJZk1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-I have developed a project titled **Emotional Context Analysis** in collaboration with **Professors Dr. Abhinav Dhall** and **Dr. Sudeepta Mishra**. The project uses **AR spectacles** to suggest conversational responses based on the desired interaction style, such as **funny** or **romantic**.
+We developed a project titled **Emotional Context Analysis** in collaboration with **Professors Dr. Abhinav Dhall** and **Dr. Sudeepta Mishra**. The project uses **AR spectacles** to suggest conversational responses based on the desired interaction style, such as **funny** or **romantic**.
 
 #### How It Works:
 - The system processes **audio** and **video** inputs from the conversation, analyzing **body language**, the **transcript**, and the **tone of voice** to understand the emotional context.

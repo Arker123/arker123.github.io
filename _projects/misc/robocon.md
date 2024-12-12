@@ -1,20 +1,20 @@
 ---
-title: Robocon 2022 Participation
+title: Robocon 2022
 subtitle: Showcasing custom-built robots for dynamic challenges.
 contributors: Arnav Kharbanda* and Team IIT Ropar
 date: 2019-11-17
-image: ../images/ds.png
+image: ../images/Robocon.png
 carousels: 
   - images: 
-    - image: '../images/blockmatching.png'
-      desc: The magic of block matching at work.
-    - image: '../images/ds.png'
-      desc: The crux of the FSBM algorithm.
+    - image: '../images/Robocon_R1.jpg'
+      desc: The R1 bot with a ball-shooting mechanism.
+    - image: '../images/Robocon_R2.jpg'
+      desc: The R2 bot with a gantry system.
 order: -70
 ---
 
 
-### Robocon 2022 Participation  
+### Robocon 2022
 
 As part of **Team IIT Ropar**, we participated in **Robocon 2022**, showcasing two custom-built robots, R1 and R2, designed to tackle dynamic challenges collaboratively.  
 

@@ -3,7 +3,7 @@ title: Micromouse
 subtitle: IIT Bombay
 contributors:  Shubham Choudhary*, Kritika Bansal*, Ujjwal Rai*, Hiren Gupta*, Arnav Kharbanda*, Nipun Jugran*, Saksham Bansal*, Harsh*
 date: 2019-12-01
-image: ../images/micromouse.png
+image: ../images/micromouse.jpg
 carousels: 
   - images: 
     - image: '../images/micromouse.jpg'

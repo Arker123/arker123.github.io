@@ -3,15 +3,15 @@ title: B-- Compiler
 subtitle: Toy programming Language
 contributors: Arnav Kharbanda* & Yashasav Prajapati*
 date: 2019-11-17
-image: ../images/presentationpointer.png
+image: ../images/bmm.jpg
 carousels: 
   - images: 
-    - image: '../images/presentationpointer.png'
-      desc: Presentation pointer working.
-    - image: '../images/pp_2.png'
-      desc: The insides of the pointer
-    - image: '../images/arch.png'
-      desc: Architecture of the pointer.
+    - image: '../images/bmm.jpg'
+      desc: B-- Compiler
+    # - image: '../images/pp_2.png'
+    #   desc: The insides of the pointer
+    # - image: '../images/arch.png'
+    #   desc: Architecture of the pointer.
 order: -70
 ---
 

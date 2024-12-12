@@ -3,10 +3,10 @@ title: Halloween Witch Drone
 subtitle: A spooky drone for Halloween fun.
 contributors: Arnav Kharbanda*, Advait Chandorkar*, Akash*, Navnoor*
 date: 2020-04-16
-image: '../images/battleship.png'
+image: '../images/witch.jpg'
 carousels: 
   - images: 
-    - image: '../images/battleship.png'
+    - image: '../images/witch.jpg'
       desc: A flying witch, but only the dog got scared!
 order: -80
 ---

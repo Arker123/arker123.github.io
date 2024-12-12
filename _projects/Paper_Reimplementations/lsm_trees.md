@@ -3,17 +3,17 @@ title: Log Structured Merge Trees
 subtitle: Classical Image Understanding
 contributors: Arnav Kharbanda*, Gopal Bansal*, Yashasav Prajapati*, Dr. Akansha
 date: 2022-01-01
-image: ../images/bayesian.png
+image: ../images/LSM.jpg
 carousels: 
   - images: 
-    - image: ../images/bayesian.png
+    - image: ../images/LSM.jpg
       desc: Bayesian Matting is hard...
 order: -30
 ---
 
-<div class="github-card" data-github="Arker123" data-width="400" data-height="200" data-theme="default"></div>
+<!-- <div class="github-card" data-github="Arker123" data-width="400" data-height="200" data-theme="default"></div> -->
 
-https://github.com/Arker123/LSM-Trees
+Github:- [Github](https://github.com/Arker123/LSM-Trees)
 # Implementing LSM Trees with Bloom Filters  
 
 Managing data efficiently is an exciting challenge in high-performance systems. LSM Trees have emerged as a great solution, especially for applications where writing data quickly is more critical than retrieving it immediately. In this project, my team and I enhanced the LSM Tree structure with Bloom filters to improve its efficiency even further. Here’s how we did it. LSM Trees are widely used in NoSQL databases, where the ability to batch writes while keeping queries responsive makes them invaluable.  

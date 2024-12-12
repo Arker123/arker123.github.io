@@ -3,15 +3,15 @@ title: Dynamic Automation Resource Kit (DARK)
 subtitle: Automating Tasks and Processes
 contributors:  Arnav Kharbanda
 date: 2022-01-01
-image: ../images/drone_3.png
-carousels: 
-  - images: 
-    - image: ../images/custompcb.jpg
-      desc: A custom pcb designed for the drone.
-    - image: ../images/protodrone.jpg
-      desc: Drone in prototype stage.
-    - image: ../images/drone_3.png
-      desc: The drone.
+image: ../images/dark.jpg
+# carousels: 
+#   - images: 
+#     - image: ../images/custompcb.jpg
+#       desc: A custom pcb designed for the drone.
+#     - image: ../images/protodrone.jpg
+#       desc: Drone in prototype stage.
+#     - image: ../images/drone_3.png
+#       desc: The drone.
 order: -40
 ---
 

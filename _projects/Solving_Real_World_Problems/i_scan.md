@@ -3,11 +3,15 @@ title: i-scan
 subtitle: Recognize Dogs of Campus via Face Detection and get details about them 
 contributors:  Sneha Shah*, Arnav Kharbanda*, Aditi* and Harshdeep*
 date: 2022-01-01
-image: ../images/invent.jpg
+image: ../images/iscan_eg1.png
 carousels: 
   - images: 
-    - image: ../images/invent.jpg
-      desc: Final picture after the event.
+    - image: ../images/iscan_ui3.png
+      desc: i-scans UI
+    - image: ../images/iscan_qr.png
+      desc: i-scan QR Code
+    - image: ../images/iscan_eg1.png
+      desc: i-scans Example 1
 order: -40
 ---
 
