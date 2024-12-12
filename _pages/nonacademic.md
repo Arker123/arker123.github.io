@@ -4,12 +4,12 @@ title: Non Academic
 permalink: /nonacademic/
 carousels:
     - images:
-        - image : ../images/conclave_2.png
-          desc: "Conclave and Symposium team 2019"
-        - image : ../images/aml.jpg
-          desc: "Conclave and Symposium team 2018"
-        - image : ../images/aml_2.jpg
-          desc: "With Dr.Goswami"
+        - image : ../images/leadership.jpg
+          desc: "Leadership Summit IIT Ropar Team"
+        # - image : ../images/aml.jpg
+        #   desc: "Conclave and Symposium team 2018"
+        # - image : ../images/aml_2.jpg
+        #   desc: "With Dr.Goswami"
     - images:
         - image : ../images/marathon.jpg
           desc: "11 Km Marathon with Soccer Team"
@@ -24,11 +24,11 @@ carousels:
 ---
 
 
-## Rubik's Cube
+<!-- ## Rubik's Cube
 
 ![](../images/rubiks.gif)
 
-My journey with the Rubik's cube started way back in class 5 when I was fascinated with the puzzle. Slowly I started getting better at solving it, when in class 10, I was able to solve in just around 13 seconds! I slowly adapted myself to solving a variety of different twisty puzzles, and can today solve more than 15 kinds of twisties!
+My journey with the Rubik's cube started way back in class 5 when I was fascinated with the puzzle. Slowly I started getting better at solving it, when in class 10, I was able to solve in just around 13 seconds! I slowly adapted myself to solving a variety of different twisty puzzles, and can today solve more than 15 kinds of twisties! -->
 
 ## Sports - Soccer
 
@@ -49,46 +49,44 @@ My journey with the Rubik's cube started way back in class 5 when I was fascinat
 - I also participated in the 11km marathon in my third and fourth year, and was able to complete it in 58 minutes and 57 minutes respectively.
 
 
-## Instruments
+<!-- ## Instruments
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/hccr3vX6kyw" frameborder="0" allowfullscreen></iframe>
 
-I play the keyboard when I want to feel at peace :) This is a cover of Fur Elise that I did a while back.
+I play the keyboard when I want to feel at peace :) This is a cover of Fur Elise that I did a while back. -->
 
-## Torque
+<!-- ## Torque
 
 ![](../images/torque.png)
 
-Torque is the annual campus magazine of IITGN. I joined the Torque 3.0 team as the Chief Editor of the Editorial Board. It took a lot of effort to write, collaborate, and go from releasing the online version of the magazine to actually printing it amidst a pandemic!
+Torque is the annual campus magazine of IITGN. I joined the Torque 3.0 team as the Chief Editor of the Editorial Board. It took a lot of effort to write, collaborate, and go from releasing the online version of the magazine to actually printing it amidst a pandemic! -->
 
 
 ## Leadership Summit IIT Ropar
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
-Amalthea - Annual Technical Summit of IITGN
+Leadership summit - Annual Leadership Summit of IITRPR
 
-- I joined Amalthea in my first year where I was part of the Conclave and Symposium team. During the event, I had the opportunity to accompany Dr JN Goswami during his visit to IITGN
+- I was part of the organizing team (Tech lead) for the Leadership Summit 2022. The event was a huge success, we had representatives from all IITs, and the event was a huge success. We had a lot of fun, and I learned a lot about organizing events.
 
-- In my second year, I was promoted to head the Conclave team, and invited and hosted several dignitaries from across the nation including , Dr S Christopher - Former Chairman, DRDO, Mr Sudarshan Sen - Former Executive Director RBI, Dr Tapan Misra - Former Director of SAC, ISRO among many others
-
-## Team LaTeX
+<!-- ## Team LaTeX
 
 ![](../images/latex_2.jpg)
 
 Team LaTeX was born with the spirit of inculcating a technical culture in the institute.  LaTeX is a popular typesetting tool used in most academic works, and we hosted a two day workshop to improve the understanding of LaTeX amongst the students of IITGN. In my first year, I was a organizer, and in my second year, managed the entire event.
+ -->
 
 
 
 
-
-## Writing
+<!-- ## Writing
 
 I occasionally like to write on my experiences and things that I did uniquely. Checkout some of my articles below.
 
 - GRE: My Test Centre Experience | by Arnav Kharbanda | Medium 
 
-- Cracking the MITACS Globalink Research Internship (GRI) | by Arnav Kharbanda | Medium  - Record number of people cracked MITACS from IITGN after the article. Correlation --> Causation? I hope so :)
+- Cracking the MITACS Globalink Research Internship (GRI) | by Arnav Kharbanda | Medium  - Record number of people cracked MITACS from IITGN after the article. Correlation -> Causation? I hope so :)
 
 - Invent@IITGN 2019 Experience - Praveen | Academic Council | IIT Gandhinagar 
 
@@ -96,16 +94,12 @@ I occasionally like to write on my experiences and things that I did uniquely. C
 
 An old blog website that I had. A peek into 2nd year Praveen XD - Random Thoughts – A peek into my mind (wordpress.com) 
 
-More on my experiences on applying to grad school, and how I dominated GRE and TOEFL. Stay tuned...
+More on my experiences on applying to grad school, and how I dominated GRE and TOEFL. Stay tuned... -->
 
 ## Teaching and Mentoring
 
-- Spring '22 - Peer Assisted Learning Mentor: Guiding and teaching freshmen who have difficulty in adjusting to college life in English
+- Resettlement training of Army Professionals: Part of an initiative to train over 40 retired government officers in a program aimed at equipping retired army professionals for civilian jobs, focusing on understanding and building drone components.
 
-- Fall '21 - Teaching Assistant: For the graduate level Natural Language Processing course - Initiated and supervised 4 projects as part of the course.
+- Atal Tinkering Labs Mentor: Taught 50+ teachers from Punjab on robotics and lab equipment, conducted 9 hands-on sessions, and collaborated with the Deputy Commissioner of Rupnagar to promote STEM education in under-resourced schools.
 
-- Spring '21 - Academic Discussion Hours Mentor: Mentored and taught concepts to freshmen for the Introduction to Analog and Digital Electronics course.
-
-- Fall '20 - Academic Discussion Hours Mentor: Mentored and taught concepts to sophomores for the Digital Systems course.
-
-- Python for Robotics Workshop: Introduction to Robotics -  Hosted a workshop using a library that I developed for python.
+- Snehita Wellbeing Cell, IIT Ropar: Served as a Snehita Buddy at 'Snehita Wellbeing Cell,' actively promoting mental health initiatives among students campus-wide.
