@@ -3,10 +3,16 @@ title: JPEG Encoder and Decoder
 subtitle: Encoder-Decoder Implementation and Parameter Analysis
 contributors: Arnav Kharbanda 
 date: 2022-01-01
-image: ../images/panorama.png
+image: ../images/jpeg_enc_dnc.jpg
+carousels: 
+  - images: 
+    - image: ../images/jpeg_enc_dnc2.png
+      desc: JPEG Encoder and Decoder
+    
 order: -30
 ---
 Github: [github](https://github.com/Arker123/JPEG-encoder-decoder)
+
 Report: [Report](https://docs.google.com/document/d/13S5LMSplLXagIZxnNmZ9qI0E7nyHwTCgcz1mlRtyH5Y/edit?tab=t.0#heading=h.mbjsiz6n6jlo)
 
 ### JPEG Encoder and Decoder Implementation

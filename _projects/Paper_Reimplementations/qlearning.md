@@ -1,13 +1,13 @@
 ---
 title: Q-Learning
 subtitle: An End-to-End Zero Shot Framework for Autonomous Drone Navigation 
-contributors: Arnav Kharbanda*, Sanket Vadhvana*, Varun Jain* 
+contributors: Arnav Kharbanda*, Yashasav Prajapati*, Gopal Bansal*, Arpit Gautam*
 date: 2022-01-01
-image: ../images/quad.gif
+image: ../images/Qlearning.jpg
 carousels: 
   - images: 
-    - image: ../images/quad.gif
-      desc: Simulation running on python.
+    - image: ../images/Qlearning.jpg
+      desc: Q-Learning
 order: -30
     
 ---

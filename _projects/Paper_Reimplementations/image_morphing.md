@@ -5,6 +5,10 @@ subtitle: Delauney Triangulation | dlib
 contributors: Arnav Kharbanda
 date: 2022-01-01
 image: ../images/rl.gif
+carousels: 
+  - images: 
+    - image: ../images/morphing.gif
+      
 order: -30
 ---
 ### Image Morphing
