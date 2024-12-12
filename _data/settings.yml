@@ -53,11 +53,9 @@ hero:
   hero__title: Arnav Kharbanda
   hero__description: Hello World! I am an undergrad student at Indian Institute of Technology, Ropar, Computer Science Department. 
   hero__description_points:
-    - Passionate about giving sight to robots.
-    - Currently building robotic systems that can assist humans @auxiliorobotics.
-    - Love tinkering with robots and experimenting with crazy ideas. Check my projects out here Projects
+    - Passionate about removing uncertainity from Robots
+    - Love tinkering with robots and experimenting with crazy ideas. Check my projects out above
     - Absolutely love teaching and disseminating knowledge in intuitive ways - my projects always have a visual component to it :)
-    - Triple Gold Medallist from IIT Gandhinagar
     
   hero__image: '/images/ski.jpeg'
 
