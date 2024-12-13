@@ -7,7 +7,7 @@ image: ../images/LSM.jpg
 carousels: 
   - images: 
     - image: ../images/LSM.jpg
-      desc: Bayesian Matting is hard...
+      desc: LSM Trees
 order: -30
 ---
 

@@ -3,24 +3,24 @@ title: InstiApp
 subtitle: A one-stop solution for campus life at IIT Ropar.
 contributors: Arnav Kharbanda
 date: 2021-03-01
-image: '../images/insiit_1.png'
-carousels: 
-  - images: 
-    - image: '../images/insiit_1.png'
-      desc: Lot of awesome new features.
-    - image: '../images/insiit_2.png'
-      desc: Lot of awesome new features.
-    - image: '../images/insiit_3.png'
-      desc: Lot of awesome new features.
-    - image: '../images/insiit_4.png'
-      desc: Lot of awesome new features.
-    - image: '../images/insiit_5.png'
-      desc: Lot of awesome new features.
+# image: '../images/insiit_1.png'
+# carousels: 
+#   - images: 
+#     - image: '../images/insiit_1.png'
+#       desc: Lot of awesome new features.
+#     - image: '../images/insiit_2.png'
+#       desc: Lot of awesome new features.
+#     - image: '../images/insiit_3.png'
+#       desc: Lot of awesome new features.
+#     - image: '../images/insiit_4.png'
+#       desc: Lot of awesome new features.
+#     - image: '../images/insiit_5.png'
+#       desc: Lot of awesome new features.
 order: -60
 ---
 
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/xYamLcZFn6w" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe width="420" height="315" src="http://www.youtube.com/embed/xYamLcZFn6w" frameborder="0" allowfullscreen></iframe> -->
 
 ### Institute App for IIT Ropar  
 

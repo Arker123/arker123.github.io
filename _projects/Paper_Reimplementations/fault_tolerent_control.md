@@ -3,7 +3,7 @@ title: Fault Tolerant Control of UAV
 subtitle: Single Motor Failure Recovery
 contributors: Arnav Kharbanda*, Sai Susant*, Nalin Angrish*, Abhigyan Singh*, Tanya*, Navnoor Singh* 
 date: 2022-01-01
-image: ../images/raceline.png
+# image: ../images/raceline.png
 order: -30
 ---
 

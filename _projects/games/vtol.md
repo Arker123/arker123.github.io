@@ -3,7 +3,7 @@ title: Vertical Takeoff and Landing (VTOL) Aircraft
 subtitle: Combining the agility of a drone with the efficiency of fixed-wing flight.
 contributors: Arnav Kharbanda
 date: 2018-10-01
-image: ../images/ghostrunner.png
+# image: ../images/ghostrunner.png
 # carousels:
 #   - images: 
 #     - image: ../images/ghostrunner.png
