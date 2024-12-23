@@ -3,11 +3,11 @@ title: eYantra 2023-24
 subtitle: My first entry into full-stack robotics
 contributors: Vinay Yadav*, Arnav Kharbanda*, Abhinav Adarsh*, Advait Chandorkar*
 date: 2020-01-04
-# image: ../images/eyantra.gif
-# carousels: 
-#   - images: 
-#     - image: '../images/eyantra.gif'
-#       desc: Demo of the drone flying.
+image: ../images/geoguide.jpeg
+carousels: 
+  - images: 
+    - image: '../images/geoguide.jpeg'
+      desc: Vanguard - The Autonomous Robot
 order: -70
 ---
 

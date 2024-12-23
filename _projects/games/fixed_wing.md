@@ -3,10 +3,11 @@ title: Fixed-Wing Aircraft
 subtitle: A reliable and efficient solution for long-distance tasks.
 contributors: Arnav Kharbanda
 date: 2018-10-01
-# image: ../images/ghostrunner.png
-# carousels:
-#   - images: 
-#     - image: ../images/ghostrunner.png
+image: ../images/fixed_wing.jpeg
+carousels:
+  - images: 
+    - image: ../images/fixed_wing.jpeg
+      desc: The Fixed-Wing Aircraft
 #       desc: Ghostrunner in its full glory.
 #     - image: ../images/ghostrunner_1.png
 #       desc: Inspired from an earlier project I had done.

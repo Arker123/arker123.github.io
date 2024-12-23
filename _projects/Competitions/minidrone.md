@@ -3,9 +3,11 @@ title: Matlab MiniDrone IIT Kanpur
 subtitle: Line Following drone
 contributors: Dhananjay Goel*, Arnav Kharbanda*, Shreyansh Dubey*, Manan Dangwal*
 date: 2019-04-15
-image: '../images/minidrone.jpg'
+image: '../images/minidrone_drone.jpg'
 carousels: 
   - images: 
+    - image: '../images/minidrone_drone.jpg'
+      desc: Photo of the drone
     - image: '../images/minidrone.jpg'
       desc: Minidrone Team
     - image: '../images/minidrone_win.jpg'
