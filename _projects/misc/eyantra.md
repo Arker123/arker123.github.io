@@ -8,6 +8,10 @@ carousels:
   - images: 
     - image: '../images/geoguide.jpeg'
       desc: Vanguard - The Autonomous Robot
+    - image: '../images/eyrc2.png'
+      desc: QGIS Georeferencing
+    - image: '../images/eyrc3.png'
+      desc: Robot with Laptop
 order: -70
 ---
 
