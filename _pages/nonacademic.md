@@ -67,6 +67,11 @@ I play the keyboard when I want to feel at peace :) This is a cover of Fur Elise
 
 Torque is the annual campus magazine of IITGN. I joined the Torque 3.0 team as the Chief Editor of the Editorial Board. It took a lot of effort to write, collaborate, and go from releasing the online version of the magazine to actually printing it amidst a pandemic! -->
 
+## Overnight Hackathon Organizer
+![](../images/hackathon.jpeg)
+
+Organized an Overnight Hackathon at IIT Ropar, collaborating with peers to design challenges addressing campus issues like gate automation, an institute app, campus safety, and a Valentine’s Day-themed dating app. Engaged 100+ participants across all years, fostering innovation and problem-solving.
+
 
 ## Leadership Summit IIT Ropar
 
