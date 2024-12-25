@@ -11,6 +11,7 @@ permalink: /achievements/
 ### IIT Ropar
 
 - Selected for **Google Summer of Code 2023** with [Mandiant-Flare Floss](https:github.com/mandiant/flare-floss) under the mentorship of Moritz Raabe, Willi Ballenthin.
+- Chanakya Fellowship 2022-23, i-Hub AWaDH, IIT Ropar
 
 ### School Level
 

@@ -6,8 +6,10 @@ date: 2022-01-01
 image: ../images/LZW.jpg
 carousels: 
   - images: 
-    - image: ../images/LZW.jpg
+    - image: ../images/LZW_dia2.jpg
       desc: LZW Encoder and Decoder
+    - image: ../images/LZW_graph.png
+      desc: LZW Compression Ratio vs Block Size
 order: -30
 ---
 
