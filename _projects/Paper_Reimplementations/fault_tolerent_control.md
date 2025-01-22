@@ -7,9 +7,9 @@ date: 2022-01-01
 order: -30
 ---
 
-Report Link:- To be updated soon
+Report Link:- [Report](https://drive.google.com/file/d/1yOOwa6ikZ7ycm5P9IPuu0d4UvInRn0Q9/view?usp=sharing)
 
-Code Link:- To be updated soon
+Code Link:- [Github](https://github.com/Arker123/Fault-Tolerent-Control)
 
 ### Position and Altitude Control of Quadrotor with Single Motor Failure
 
