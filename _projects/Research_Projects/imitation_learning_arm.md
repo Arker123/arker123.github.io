@@ -1,7 +1,7 @@
 ---
 order: -20
 home: 10
-title: Imiation Learning Robotic Arm
+title: Imitation Learning Robotic Arm
 subtitle: Autonomous pick-and-place operations with a dual-camera setup.
 contributors: Arnav Kharbanda*
 date: 2021-06-01
