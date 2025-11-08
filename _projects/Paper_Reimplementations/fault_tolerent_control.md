@@ -7,7 +7,7 @@ date: 2022-01-01
 order: -30
 ---
 
-Report Link:- [Report](https://drive.google.com/file/d/1yOOwa6ikZ7ycm5P9IPuu0d4UvInRn0Q9/view?usp=sharing)
+Report Link:- [Report](https://drive.google.com/file/d/16MeTEI_MvUKJCmrI-uZT6t9KzKbbVsVv/view?usp=drive_link)
 
 Code Link:- [Github](https://github.com/Arker123/Fault-Tolerent-Control)
 
