@@ -2,7 +2,7 @@
 title: Condense 
 subtitle: The Ultimate Video and Meeting Analyzer
 contributors: Dhananjay Goel*, Arnav Kharbanda*, Kritika Bansal*, Virat Jain*, Hardik*, Dhruv Negi*, Arpit Kumar*, Niti Shyamsukha*, Nandini*, Vikalp*, Edgar Aditya*  
-date: 2023-01-01
+date: 2020-01-01
 image: ../images/condense_cover.jpg
 carousels: 
   - images: 
