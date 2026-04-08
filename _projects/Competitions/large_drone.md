@@ -4,10 +4,10 @@ subtitle: 8 feet drone for Rescue
 contributors:  Arnav Kharbanda, Airlab team
 date: 2021-12-01
 image: '../images/tartanairrescue.png'
-# carousels:
-#   - images: 
-#     - image: ../images/lf1.jpg
-#       desc: A robot built to follow lines and tackle tricky tracks.
+carousels:
+  - images: 
+    - image: ../images/tartanairrescue.png
+      desc: TartanAirRescue Team
 #     - image: ../images/lf2.jpg
 #       desc: A robot built to follow lines and tackle tricky tracks.
 #     - image: ../images/lf3.jpg
